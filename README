@@ -1,0 +1,21 @@
+Description:
+
+This project uses Javascript D3 library and Leaflet to visualize some USGS earthquake data in the western US
+
+Folder contents:
+
+Leaflet-Part-1
+    static
+        css
+            style.css
+        js
+            logic.js
+    index.html
+Leaflet-Part-2
+    (empty)
+README
+
+Contact info:
+
+Tyler Potts
+twpotts11@gmail.com
