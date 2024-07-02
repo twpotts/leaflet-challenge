@@ -5,14 +5,15 @@ This project uses Javascript D3 library and Leaflet to visualize some USGS earth
 Folder contents:
 
 Leaflet-Part-1
-    static
-        css
-            style.css
-        js
-            logic.js
-    index.html
+    (empty)
 Leaflet-Part-2
     (empty)
+static
+    css
+        style.css
+    js
+        logic.js
+index.html
 README
 
 Contact info:
